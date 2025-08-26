@@ -1,1 +1,6 @@
-i = 1
+module HelloWorld (hello) where 
+
+hello :: String
+hello = "Hello, World!"
+
+
